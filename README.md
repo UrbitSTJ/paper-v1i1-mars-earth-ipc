@@ -1,3 +1,11 @@
+<!-- ustj-doi -->
+# What Agreement Hath Mars with Earth? An Exploration of Urbit's IPC Interfaces
+
+~mopfel-winrux. *Urbit Systems Technical Journal* 1(1), 2024.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24389606.svg)](https://doi.org/10.5281/zenodo.24389606) [Read on urbitsystems.tech](https://urbitsystems.tech/article/v01-i01/what-agreement-hath-mars-with-earth-an-exploration-of-urbits-ipc-interfaces)
+<!-- /ustj-doi -->
+
 # USTJ Template
 
 The template for USTJ LaTeX submissions.  You should *import* this repo, not *fork* it.
